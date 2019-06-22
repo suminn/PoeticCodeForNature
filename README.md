@@ -15,3 +15,5 @@
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
  ![예시 이미지](./example_img.png)
+
+ (./example_rabbit.jpg)

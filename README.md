@@ -6,10 +6,6 @@
  * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
 
 
-## 강수민 ㅅㅂ
+## 강수민의 기말괴제입니다
 
-<<<<<<< HEAD
  [토끼](./example_rabbit.jpg)
-=======
- (./example_rabbit.jpg)
->>>>>>> fa9d1524de2e62e9e09dcb53aeb8138074aa5158

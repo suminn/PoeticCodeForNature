@@ -8,4 +8,8 @@
 
 ## 강수민 ㅅㅂ
 
+<<<<<<< HEAD
  [토끼](./example_rabbit.jpg)
+=======
+ (./example_rabbit.jpg)
+>>>>>>> fa9d1524de2e62e9e09dcb53aeb8138074aa5158
